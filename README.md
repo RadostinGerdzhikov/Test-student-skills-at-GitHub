@@ -1,4 +1,3 @@
 # Test-student-skills-at-GitHub
-No conflict point!
-I'm form Spain!
+The conflict is over!
 
